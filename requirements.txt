@@ -1,0 +1,14 @@
+# For analysis
+numpy
+scipy
+matplotlib
+tifffile
+# For presentation
+jupyterlab
+jupyterlab-rise
+jupyterlab-myst
+jupytext
+# For static site deployment
+sphinx
+myst-nb
+pydata-sphinx-theme
