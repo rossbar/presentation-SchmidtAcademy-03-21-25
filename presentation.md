@@ -66,8 +66,51 @@ import matplotlib.pyplot as plt
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-# The infinite bootstrapping of emperical knowledge
+## The infinite bootstrapping of emperical knowledge
 
 TODO: applications-technology loop
 
++++ {"slideshow": {"slide_type": "slide"}}
+
+### Exploratory data analysis is a major component of modern research
+
++++ {"slideshow": {"slide_type": "fragment"}}
+
+#### Priorities
+
++++ {"slideshow": {"slide_type": "fragment"}}
+
+- speed to test ideas
+  * Researcher time uber alles
+
++++ {"slideshow": {"slide_type": "fragment"}}
+
+- **Flexibility**
+  * Requirements change *frequently*, *rapidly*, and *non-linearly*
+
++++ {"slideshow": {"slide_type": "subslide"}}
+
+## Case study: [deepcell-label](https://label.deepcell.org)
+
+Browser-based labeling application for cellular data.
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+### Exploratory data analysis is a major component of modern research
+
+#### Priorities
+
+- speed to test ideas
+  * Researcher time uber alles
+
+- **Flexibility**
+  * Requirements change *frequently*, *rapidly*, and *non-linearly*
+
++++ {"slideshow": {"slide_type": "fragment"}}
+
+- Ability to keep things *organized* and *portable*
+
++++ {"slideshow": {"slide_type": "fragment"}}
+
+- The real reason researchers should care about `git`!
 
