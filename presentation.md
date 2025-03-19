@@ -24,14 +24,50 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 ```
 
-+++ {"slideshow": {"slide_type": "slide"}, "jp-MarkdownHeadingCollapsed": true}
++++ {"slideshow": {"slide_type": "slide"}}
 
 <center>
 
 # Scientific Open Source Software - Bridging the Gap between Researcher and Developer
 
-### Caltech Software Accelerator | March 21st 2025
+## Caltech Software Accelerator | March 21st 2025
 
-#### Ross Barnowski, [@rossbar](https://github.com/rossbar) on GitHub
+### Ross Barnowski, [@rossbar](https://github.com/rossbar) on GitHub
 
 </center>
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+# My perspective
+
++++ {"slideshow": {"slide_type": "subslide"}}
+
+## Software **for** engineering
+
++++ {"slideshow": {"slide_type": "fragment"}}
+
+(and science and research)
+
++++ {"slideshow": {"slide_type": "fragment"}}
+
+## Software as...
+
++++ {"slideshow": {"slide_type": "fragment"}}
+
+ - A tool for exploration, intuition-building, formulating hypotheses, understanding constraints
+
++++ {"slideshow": {"slide_type": "fragment"}}
+
+ - A means of organizing and effectively communicating ideas
+
++++ {"slideshow": {"slide_type": "fragment"}}
+
+ - Stable building blocks for new ideas
+
++++ {"slideshow": {"slide_type": "slide"}}
+
+# The infinite bootstrapping of emperical knowledge
+
+TODO: applications-technology loop
+
+
