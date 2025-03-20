@@ -66,7 +66,7 @@ import matplotlib.pyplot as plt
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-## The infinite bootstrapping of emperical knowledge
+## The infinite bootstrapping of empirical knowledge
 
 <center>
 <img src="_static/applications_technology_loop.jpg"
@@ -81,13 +81,11 @@ import matplotlib.pyplot as plt
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
-#### Not all software needs to be sustainable
+**Not all software needs to be sustainable**
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
 In fact, in research - most shouldn't be!
-
-+++ {"slideshow": {"slide_type": "fragment"}}
 
 +++ {"slideshow": {"slide_type": "subslide"}}
 
@@ -105,6 +103,8 @@ In fact, in research - most shouldn't be!
 >
 > Luciano Ramalho, preface to [Fluent Python](https://dl.acm.org/doi/10.5555/2876106)
 
++++ {"slideshow": {"slide_type": "slide"}}
+
 ### Priorities
 
 +++ {"slideshow": {"slide_type": "fragment"}}
@@ -119,7 +119,7 @@ In fact, in research - most shouldn't be!
 
 +++ {"slideshow": {"slide_type": "subslide"}}
 
-## Case study: [deepcell-label](https://label.deepcell.org)
+## Case study: [deepcell-label](https://label-dev.deepcell.org)
 
 Browser-based labeling application for cellular data.
 
@@ -150,9 +150,9 @@ Browser-based labeling application for cellular data.
 
 - The real reason researchers should care about `git`!
 
-+++ {"slideshow": {"slide_type": "fragment"}}
++++ {"slideshow": {"slide_type": "slide"}}
 
-## Git for solo research
+## Git for researchers
 
 - `git` + environment management == develop and run anywhere
 
