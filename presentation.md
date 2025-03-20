@@ -42,13 +42,21 @@ import matplotlib.pyplot as plt
 
 +++ {"slideshow": {"slide_type": "subslide"}}
 
-## Software **for** engineering
+## Software *for* engineering
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
-(and science and research)
+(engineering research, that is)
 
 +++ {"slideshow": {"slide_type": "fragment"}}
+
+(oh and science too!)
+
++++ {"slideshow": {"slide_type": "fragment"}}
+
+## The *R* is the defining element of *RSE*
+
++++ {"slideshow": {"slide_type": "subslide"}}
 
 ## Software as...
 
@@ -77,11 +85,11 @@ import matplotlib.pyplot as plt
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-### Exploratory data analysis is a major component of modern research
+## Exploratory data analysis is a major component of modern research
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
-**Not all software needs to be sustainable**
+### Not all software needs to be sustainable
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
@@ -99,22 +107,18 @@ In fact, in research - most shouldn't be!
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
-> Premature abstraction is as bad as premature optimization.
->
-> Luciano Ramalho, preface to [Fluent Python](https://dl.acm.org/doi/10.5555/2876106)
-
-+++ {"slideshow": {"slide_type": "slide"}}
-
-### Priorities
-
-+++ {"slideshow": {"slide_type": "fragment"}}
-
-- speed to test ideas
+- Prioritize **speed to test ideas**, not necessarily **code runtime**
   * Researcher time uber alles
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
-- **Flexibility**
+> Premature abstraction is as bad as premature optimization.
+>
+> Luciano Ramalho, preface to [Fluent Python](https://dl.acm.org/doi/10.5555/2876106)
+
++++ {"slideshow": {"slide_type": "fragment"}}
+
+- Prioritize **Flexibility**
   * Requirements change *frequently*, *rapidly*, and *non-linearly*
 
 +++ {"slideshow": {"slide_type": "subslide"}}
@@ -132,19 +136,25 @@ Browser-based labeling application for cellular data.
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-### Exploratory data analysis is a major component of modern research
+### Some quotes
 
-### Priorities
+> ... premature optimization is the root of all evil...
+>
+> Donald Knuth, ["Structured Programming with go to statements"](https://dl.acm.org/doi/10.1145/356635.356640)
 
-- speed to test ideas
+- Prioritize **speed to test ideas**, not necessarily **code runtime**
   * Researcher time uber alles
 
-- **Flexibility**
+> Premature abstraction is as bad as premature optimization.
+>
+> Luciano Ramalho, preface to [Fluent Python](https://dl.acm.org/doi/10.5555/2876106)
+
+- Prioritize **Flexibility**
   * Requirements change *frequently*, *rapidly*, and *non-linearly*
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
-- Ability to keep things *organized* and *portable*
+- Prioritize keeping things **organized** and **portable**
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
@@ -154,7 +164,11 @@ Browser-based labeling application for cellular data.
 
 ## Git for researchers
 
++++ {"slideshow": {"slide_type": "fragment"}}
+
 - `git` + environment management == develop and run anywhere
+
++++ {"slideshow": {"slide_type": "fragment"}}
 
 - Simplified mental model: commits as snapshots -> 
   - `branch` ing as experiment management; `tag` ing to indicate project state
@@ -183,6 +197,10 @@ Browser-based labeling application for cellular data.
 <img src="https://bids-numpy.github.io/workshop_site_AIMS_2021/images/mlem_eqn.png"
  alt="List-mode ML-EM equation" width=40% />
 </center>
+
++++ {"slideshow": {"slide_type": "fragment"}}
+
+List-mode ML-EM
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
@@ -263,7 +281,9 @@ Another case-study: [Medsam](https://github.com/bowang-lab/MedSAM)
 +++ {"slideshow": {"slide_type": "slide"}}
 
 <center>
+
 # Okay... so what?
+
 </center>
 
 +++ {"slideshow": {"slide_type": "slide"}}
@@ -271,8 +291,6 @@ Another case-study: [Medsam](https://github.com/bowang-lab/MedSAM)
 ## Building stronger ties between open-source developer communities researchers
 
 - Both on campus, and with the broader OSS development community
-
-- TODO: for on campus, mention HPC user docs
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
@@ -298,9 +316,11 @@ So developers are aware of your use-case!
 
 - [Zarr example](https://github.com/zarr-developers/zarr-python/issues/2706#issuecomment-2686222636)
 
++++ {"slideshow": {"slide_type": "fragment"}}
+
 Not just a one way street!
 
-+++ {"slideshow": {"slide_type": "fragment"}}
++++ {"slideshow": {"slide_type": "subslide"}}
 
 > For the complete set of non-isomorphic graphs of `n` nodes, how many pairs have
 > identical joint degree-and-triangle distributions, but different maximal clique
@@ -347,17 +367,17 @@ Some concrete project ideas of mine:
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
-Want to publish a package? Contribute to an OSS package but you're not sure
-how? `@` me!
+Want to **publish a package**? **Contribute to an OSS package but you're not sure
+how?** `@` me!
  - Happy to help on-ramp folks to contributing!
 
++++ {"slideshow": {"slide_type": "subslide"}}
+
+Want to **help me on OSS problems I'm stuck on?** `@` me!
+
 +++ {"slideshow": {"slide_type": "fragment"}}
 
-Want to help me on OSS problems I'm stuck on? `@` me!
-
-+++ {"slideshow": {"slide_type": "fragment"}}
-
-Asynchronous infrastructure
+**Asynchronous infrastructure**
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
@@ -369,4 +389,4 @@ Asynchronous infrastructure
 
 +++ {"slideshow": {"slide_type": "fragment"}}
 
-**Your** ideas?
+## *Your* ideas?
